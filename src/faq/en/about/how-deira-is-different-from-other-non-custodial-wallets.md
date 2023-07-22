@@ -1,9 +1,6 @@
 # How is dEiRA different?
 
-The dEiRA wallet app has been a work in progress since late 2017, and counts over 100,000 engineering hours!
-
-- [https://github.com/deiracoin/wallet-ios](https://github.com/deiracoin/wallet-ios)
-- [https://github.com/deiracoin/wallet-android](https://github.com/deiracoin/wallet-android)
+The dEiRA wallet app has been a work in progress since late 2022, and counts over 100,000 engineering hours!
 
 It's the most sophisticated non-custodial wallet app to date that goes beyond non-custodial storage capabilities, and takes a comprehensive approach towards privacy, decentralization and usability.
 
