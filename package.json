@@ -1,5 +1,5 @@
 {
-  "name": "web-bankwallet",
+  "name": "deira-wallet",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://deiracoin.com",
@@ -28,7 +28,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "scp -r ./build/* deploy@178.62.214.140:/var/www/unstoppable.money"
+    "deploy": "scp -r ./build/* deploy@178.62.214.140:/var/www/deiracoin.com"
   },
   "eslintConfig": {
     "extends": "react-app"
